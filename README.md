@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ratna726728
-- 👀 I’m interested in Front End Development, RPA, SQL and Database stuff.
-- 🌱 I’m currently learning SQL and Oracle Database
-- 💞️ I’m looking to collaborate on SQL and Database technology.
+- 👀 I’m interested in Java Development, SQL.
+- 🌱 I’m currently learning Core Java, JDBC, Hibernate, Spring, SQL and Oracle Database. 
+- 💞️ I’m looking to collaborate on Java backend technolofy.
 - 📫 If you want to connect mail me on ratna726728@gmail.com
 
 ####Keep Learning, Keep Hustling####
